@@ -1,0 +1,10 @@
+C:\Users\Public\source\repos\Aula05MaquinadeVendas\Aula05MaquinadeVendas\bin\Debug\Aula05MaquinadeVendas.exe.config
+C:\Users\Public\source\repos\Aula05MaquinadeVendas\Aula05MaquinadeVendas\bin\Debug\Aula05MaquinadeVendas.exe
+C:\Users\Public\source\repos\Aula05MaquinadeVendas\Aula05MaquinadeVendas\bin\Debug\Aula05MaquinadeVendas.pdb
+C:\Users\Public\source\repos\Aula05MaquinadeVendas\Aula05MaquinadeVendas\obj\Debug\Aula05MaquinadeVendas.csproj.AssemblyReference.cache
+C:\Users\Public\source\repos\Aula05MaquinadeVendas\Aula05MaquinadeVendas\obj\Debug\Aula05MaquinadeVendas.Form1.resources
+C:\Users\Public\source\repos\Aula05MaquinadeVendas\Aula05MaquinadeVendas\obj\Debug\Aula05MaquinadeVendas.Properties.Resources.resources
+C:\Users\Public\source\repos\Aula05MaquinadeVendas\Aula05MaquinadeVendas\obj\Debug\Aula05MaquinadeVendas.csproj.GenerateResource.cache
+C:\Users\Public\source\repos\Aula05MaquinadeVendas\Aula05MaquinadeVendas\obj\Debug\Aula05MaquinadeVendas.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\Aula05MaquinadeVendas\Aula05MaquinadeVendas\obj\Debug\Aula05MaquinadeVendas.exe
+C:\Users\Public\source\repos\Aula05MaquinadeVendas\Aula05MaquinadeVendas\obj\Debug\Aula05MaquinadeVendas.pdb
